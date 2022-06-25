@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-###I thought I would give WebDev a go, so I will begin hosting my portfolio here once I've finished building it.
+### I thought I would give WebDev a go, so I will begin hosting my portfolio here once I've finished building it.
 
-###Stay awesome,
+### Stay awesome,
 
-##OrangeScorpion
+## OrangeScorpion
 
 <!--
 **orangescorpion/orangescorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
